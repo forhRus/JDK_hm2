@@ -1,0 +1,19 @@
+Ivan Ivanovich: Hi
+Serg: Hello
+Serg: Все работает
+Serg: Что-то пошло не так
+Serg: 111
+Ivan Ivanovich: Хм
+Serg: Проба
+Ivan Ivanovich: Проба
+Ivan Ivanovich: В чём дело?
+serg: ОШбика была примитивнейшая
+serg: Сплошные грабли
+Ivan Ivanovich: Я тебя понимаю
+serg: Ты куда ушёл
+serg: Эй
+serg: А теперь что
+Ivan Ivanovich: Проверка удаления
+Ivan Ivanovich: Вот, теперь всё замечательно
+Ivan Ivanovich: Осталось только опнять, что ещё за звук на заднем плане появляется переодически, и совсем всё хорошо будет
+Ivan Ivanovich: Перенос текста отсутствует в текстовой области
